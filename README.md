@@ -1,4 +1,4 @@
-# Анализ цен на недвижимость
+# Анализ объявлений Авито о продаже квартир
 Анализ цен на недвижимость (2к квартиры, Москва, до 15 млн). 
 Ссылка на анализ:
 https://github.com/Zzema/avito_nedvizhimost_analyse/blob/master/price%20forecast%20avito%20flats.ipynb 
